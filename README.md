@@ -31,8 +31,11 @@ If you did everything correctly, you will see that your bot is now active on you
 ## Commands
 
   - $hello -> bot will respond with "Hello"
+  - $help -> bot will respond with the available list of commands
   - $findjob -> bot will respond with most recent job posting from ycombinator
   - $findjobs -> bot will respond with a list of jobs from ycombinator
+  - $autopostjobs -> bot will check for new job posting every hour from ycombinator. If there is a new post, the bot will post it to the server
+  - $stopautopost -> bot will stop the autoposting process
 
 
 
