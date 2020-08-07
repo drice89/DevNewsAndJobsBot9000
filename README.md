@@ -35,7 +35,9 @@ If you did everything correctly, you will see that your bot is now active on you
   - $findjob -> bot will respond with most recent job posting from ycombinator
   - $findjobs -> bot will respond with a list of jobs from ycombinator
   - $autopostjobs -> bot will check for new job posting every hour from ycombinator. If there is a new post, the bot will post it to the server
-  - $stopautopost -> bot will stop the autoposting process
+  - $autopoststories => a background process will post top Hackernews stories every 45 min 
+  - $stopjobs => end the auto post loop for jobs
+  - $stopstories => end the autopost loop for stories 
 
 
 
