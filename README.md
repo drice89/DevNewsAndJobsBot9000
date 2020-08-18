@@ -1,4 +1,4 @@
-# get_a_dev_job_discordbot
+#Ycombinator DevNewsAndJobsBot9000
 
 get_a_dev_job_discordbot is a bot for discord that pulls job postings from from ycombinator and sends them to your server.
 
